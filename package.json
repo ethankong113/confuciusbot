@@ -1,0 +1,16 @@
+{
+  "name": "confuciusbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "confuciusbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ethan",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.3",
+    "sqlite": "^2.2.0",
+    "sqlite3": "^3.1.6"
+  }
+}
